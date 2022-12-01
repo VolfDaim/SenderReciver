@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Conf/Conf.iml" filepath="$PROJECT_DIR$/Conf/Conf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Config/Config.iml" filepath="$PROJECT_DIR$/Config/Config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FinalVers.iml" filepath="$PROJECT_DIR$/FinalVers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Receiver/Receiver.iml" filepath="$PROJECT_DIR$/Receiver/Receiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sender/Sender.iml" filepath="$PROJECT_DIR$/Sender/Sender.iml" />
+    </modules>
+  </component>
+</project>
